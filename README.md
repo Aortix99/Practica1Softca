@@ -1,1 +1,1 @@
-# Practica1Softca
+Andres Camilo Ortiz Cogollo
